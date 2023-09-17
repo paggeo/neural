@@ -1,0 +1,14 @@
+#Ignore VSCode settings files
+.vscode/
+
+# Ignore Python __pycache__ directories
+__pycache__/
+
+# Ignore all compiled Python files (bytecode)
+*.pyc
+*.pyo
+__pycache__/
+
+# Optionally, ignore any user-specific VSCode settings (e.g., workspace settings)
+.vscode/settings.json
+
